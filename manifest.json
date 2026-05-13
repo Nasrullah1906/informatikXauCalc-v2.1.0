@@ -1,0 +1,52 @@
+{
+  "id": "/InformatikXauCalc/",
+  "name": "InformatikXauCalc",
+  "short_name": "XauCalc",
+  "description": "Kalkulator Profit & Loss Trading Gold XAU/USD",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#0a0800",
+  "theme_color": "#c9a84c",
+  "lang": "id",
+  "dir": "ltr",
+  "categories": ["finance", "utilities"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screenshot-1.jpeg",
+      "sizes": "770x1600",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "Kalkulator XAU/USD"
+    },
+    {
+      "src": "screenshot-2.jpeg",
+      "sizes": "752x1600",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "Profit & Loss Calculator"
+    },
+    {
+      "src": "screenshot-3.jpeg",
+      "sizes": "741x1599",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "Riwayat Kalkulasi"
+    }
+  ]
+}
