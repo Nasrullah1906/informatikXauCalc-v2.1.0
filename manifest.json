@@ -1,7 +1,7 @@
 {
   "id": "/InformatikXauCalc/",
   "name": "InformatikXauCalc",
-  "short_name": "XauCalc",
+  "short_name": "InfXauCalc",
   "description": "Kalkulator Profit & Loss Trading Gold XAU/USD",
   "start_url": "./index.html",
   "scope": "./",
